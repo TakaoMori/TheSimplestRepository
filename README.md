@@ -1,0 +1,2 @@
+# TheSimplestRepository
+何も入っていない最もシンプルなリポジトリ
